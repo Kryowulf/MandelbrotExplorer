@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WPFUI": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
